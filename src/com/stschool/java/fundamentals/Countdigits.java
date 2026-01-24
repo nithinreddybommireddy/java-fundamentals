@@ -1,4 +1,4 @@
-package com.stschool.java.basics4;
+package com.stschool.java.fundamentals;
 
 import java.util.Scanner;
 
