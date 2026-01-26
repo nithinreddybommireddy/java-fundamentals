@@ -79,6 +79,5 @@ public class Primitives {
         System.out.println("Blood sugar level : " + bloodSugarLevel);
         System.out.println("Network latency : " + networkLatency);
         System.out.println("Execution time : " + executionTime);
-
     }
 }
