@@ -12,9 +12,8 @@ public class CountFactors {
         for (int i = 1; i <= n; i++) {
             if (n % i == 0) {
                 count++;
-               }
+            }
         }
-        System.out.println("no.of factors in given number : "+count);
-
+        System.out.println("no.of factors in given number : " + count);
     }
 }
